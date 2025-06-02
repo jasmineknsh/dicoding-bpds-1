@@ -1,0 +1,11 @@
+Feature,Importance
+OverTime_Yes,0.09791541
+JobRole_Manager,0.09614396
+EnvironmentSatisfaction,0.05713456
+JobRole_Research Director,0.053901
+MaritalStatus_Single,0.047614194
+JobRole_Sales Representative,0.04049008
+BusinessTravel_Travel_Frequently,0.03791127
+YearsSinceLastPromotion,0.03676385
+EducationField_Medical,0.036094498
+JobSatisfaction,0.0356303
